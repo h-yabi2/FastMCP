@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "letter-counter": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/h-yabi/practice/FastMCP_sample",
+        "run",
+        "letter_counter.py"
+      ]
+    }
+  }
+}
